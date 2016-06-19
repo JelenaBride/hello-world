@@ -1,5 +1,5 @@
 # hello-world
 My first repository
 
-Helllo!
-I like comicbooks and graphic novels.
+Hello!
+I like comic books and graphic novels.
